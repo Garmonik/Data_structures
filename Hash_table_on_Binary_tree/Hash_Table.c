@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "number571/tree.h"
+#include "tree.h"
 
 typedef struct HashTab {
     struct {
