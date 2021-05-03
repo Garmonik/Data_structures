@@ -3,7 +3,7 @@
 
 //Структура, ссылающаяся на саму себя
 struct stackNode{
-    int data;                   //Определить данные с типом nt
+    int data;                   //Определить данные с типом int
     struct stackNode *nextPtr;  //Указатель на структура tackNode
 }; //Конец структуры stackNode
 
